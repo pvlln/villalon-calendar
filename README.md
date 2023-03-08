@@ -9,7 +9,7 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 ## LINK TO DEPLOYED APPLICATION
 
 You can access my application from here:
-// Insert link
+https://pvlln.github.io/villalon-calendar/
 
 ## User Story
 
@@ -37,7 +37,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following screenshot shows my application:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/screenshot.png)
 
