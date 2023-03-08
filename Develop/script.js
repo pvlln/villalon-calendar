@@ -28,7 +28,7 @@ $(function () {
     var hourInt = parseInt(hourNo[1]);
     if (hourInt < currentHour){
       $(timeSlots[i]).addClass('past');
-    } else if (hourInt[1] == currentHour){
+    } else if (hourInt == currentHour){
       $(timeSlots[i]).addClass('present');
     } else {
       $(timeSlots[i]).addClass('future');
